@@ -8,6 +8,10 @@ Clone:
 **`git clone https://github.com/apn2qq/banana-grid.git`**
 
 Add  
-**`banana-grid.min.css`** in your **`<head> </head>`**
+**`banana-grid.min.css`** in your **`<head></head>`**
 
 Enjoy!
+
+### Small documentation:
+
+Coming soon...
